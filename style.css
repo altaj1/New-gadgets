@@ -1,0 +1,18 @@
+.container{
+    margin-bottom: 100px;
+}
+.backround-img{
+    background-image: url("bg-1.png");
+    background-color: rgb(126, 169, 175);
+}
+.carousel-item{
+    padding: 40px 40px;
+}
+.buy-now-button{
+    background-image: -moz-linear-gradient(to bottom, tomato 0%, lightblue 100%);
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
