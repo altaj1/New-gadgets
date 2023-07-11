@@ -1,9 +1,10 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .backround-img{
     background-image: url("bg-1.png");
     background-color: rgb(126, 169, 175);
+    border-radius: 8px;
 }
 .carousel-item{
     padding: 40px 40px;
@@ -15,4 +16,10 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.banner-products{
+    background-color: blueviolet;
+}
+.width{
+    width: 100%;
 }
